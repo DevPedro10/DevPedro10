@@ -4,8 +4,7 @@
 - 🌱 Atualmente estudo JavaScript e ReactJS.
 - 📫 Contate-me no e-mail: natanpedrodasilva@gmail.com
 ##
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevPedro10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedro10&layout=compact&langs_count=7&theme=dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevPedro10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedro10&layout=compact&langs_count=7&theme=dark"/>
 
 
 
