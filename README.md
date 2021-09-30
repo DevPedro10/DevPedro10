@@ -1,7 +1,7 @@
 <h4 align="center"><samp> Olá a todos! 👋🏾  Bem vindo ao meu Perfil do GitHub. Gosto muito de aprender novas linguagens e atualmente estou focado em JavaScript & ReactJS. 💙💛 </samp></h4>
 
 <p align="center">
-  <img height="300px" src="https://c.tenor.com/yQ6QlIyJf-EAAAAC/cats-computer.gif">
+  <img height="300px" src="https://media1.giphy.com/media/JUji554QwdXwAuYkhP/giphy.gif?cid=ecf05e47wl0nf0953aj7hqzwp1ddeuxs9czwr2wtwxjvk9cn&rid=giphy.gif&ct=g">
 </p>
  
 
@@ -20,6 +20,6 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedro10&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
-<h6 align="center">Veja meus repositórios abaixo.</h6>
-<p align="center">⬇️</p>
+<h3 align="center">⬇️ Veja meus repositórios abaixo. ⬇️</h3>
+
 
