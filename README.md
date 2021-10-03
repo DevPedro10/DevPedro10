@@ -22,21 +22,4 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=jav
 
 <h3 align="center"><samp>⬇️ Veja meus repositórios abaixo. ⬇️<samp></h3>
 
-<hr>
-
-<img src="https://img.shields.io/badge/LinkedIn-166798?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/Gmail-166798?style=for-the-badge&logo=gmail&logoColor=white">
-<img src="https://img.shields.io/badge/Twitter-166798?style=for-the-badge&logo=twitter&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-166798?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/Telegram-166798?style=for-the-badge&logo=telegram&logoColor=white">
-
-<img w src="<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img src="CSS">
-<img src="JS">
-<img src="JAVA">
-<img src="PYTHON">
-<img src="BOOTSTRAP">
-<img src="SQL">
-<img src="GIT">
-<img src="LINUX FEDORA">
 
