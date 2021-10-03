@@ -20,7 +20,8 @@ src="https://img.shields.io/badge/JavaScript-21478f?style=for-the-badge&logo=jav
 </p>
 
 <p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedro10&layout=compact&langs_count=7&theme=github_dark "/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedro10&layout=compact&langs_count=7&theme=gotham"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevPedro10&theme=gotham"/>
 </p>
 
 <h3 align="center"><samp>⬇️ Veja meus repositórios abaixo. ⬇️<samp></h3>
