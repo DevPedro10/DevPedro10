@@ -3,7 +3,7 @@
 <h4 color="#f03c15" align="center"><samp> Olá a todos! 👋🏾  Bem vindo ao meu Perfil do GitHub. Gosto muito de aprender novas linguagens e atualmente estou focado em JavaScript & ReactJS. 💙 </samp></h4>
 
 <p align="center">
-  <img height="300px" width="700px" src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966">
+  <img height="300px" src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966">
 </p>
  
 
