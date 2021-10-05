@@ -16,7 +16,7 @@ src="https://img.shields.io/badge/JavaScript-16493f?style=for-the-badge&logo=jav
 <a href="https://www.instagram.com/p3drosep/" target="_blank"><img src="https://img.shields.io/badge/Instagram-16493f?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a> <a href="https://www.linkedin.com/in/nat%C3%A3-pedro-da-silva-735443218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-16493f?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 </p>
 
-
+<br>
 <p align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedro10&layout=compact&langs_count=7&theme=gotham"/>
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevPedro10&theme=gotham"/>
