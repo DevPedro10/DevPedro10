@@ -2,7 +2,7 @@
 
 <p align="center"><img height="300px"src="https://camo.githubusercontent.com/c8603029e1d7baade74d71c1823bdcdbaa61f08c2bf062a483e02e0f4ace034c/68747470733a2f2f692e67697068792e636f6d2f5254684e30684f5332474f344d2e676966"></p>
  
-
+<br>
 <h3 align="center">O que estou estudando</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-16493f?style=for-the-badge&logo=python&logoColor=white" alt=""> <img src="https://img.shields.io/badge/HTML-16493f?style=for-the-badge&logo=html5&logoColor=white" alt=""> <img src="https://img.shields.io/badge/CSS-16493f?&style=for-the-badge&logo=css3&logoColor=white" alt=""> <img 
