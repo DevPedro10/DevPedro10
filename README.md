@@ -26,5 +26,6 @@ src="https://img.shields.io/badge/JavaScript-16493f?style=for-the-badge&logo=jav
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevPedro10&theme=gotham"/>
 </p>
 
+<br>
 
 <h3 align="center"><samp>⬇️ Veja meus repositórios abaixo. ⬇️<samp></h3>
