@@ -1,5 +1,4 @@
 <h4 align="center"><samp>Olá á todos! Bem-vindo ao meu Perfil do GitHub. Gosto muito de aprender novas linguagens e atualmente estou focado em Front-End. 💙 </samp></h4>
-
 <br>
 
 <p align="center"><img height="300px"src="https://c.tenor.com/UvRP_jsaucMAAAAC/bart-simpson-simpson.gif"></p>
