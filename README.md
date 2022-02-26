@@ -1,7 +1,7 @@
 <h4 align="center"><samp>Olá á todos! Bem-vindo ao meu Perfil do GitHub. Gosto muito de aprender novas linguagens e atualmente estou focado em Front-End. 💙 </samp></h4>
 <br>
 
-<p align="center"><img height="300px"src="https://c.tenor.com/UvRP_jsaucMAAAAC/bart-simpson-simpson.gif"></p>
+<p align="center"><img height="350px"src="https://media3.giphy.com/media/YlqQXt3PFFFC0/giphy.gif?cid=ecf05e47k0njhqnfbf6k9fgsgembo2cx6knt74odla2v2017&rid=giphy.gif&ct=g"></p>
  
 <br>
 
