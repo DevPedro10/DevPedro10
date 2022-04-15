@@ -1,9 +1,14 @@
 <h4 align="center"><samp>Olá á todos! Bem-vindo ao meu Perfil do GitHub. Gosto muito de aprender novas linguagens e atualmente estou focado em Front-End. 💙 </samp></h4>
+
 <br>
 
 <p align="center"><img height="350px"src="https://media3.giphy.com/media/l2Jeev6AvurRQMgEM/giphy.gif?cid=ecf05e47auv4pa1n63ql2ul6nlmpqgwhikxc7zwjkop570ab&rid=giphy.gif&ct=g"></p>
  
 <br>
+
+<p align="center"> 
+<a href="https://devpedro10.github.io/Site-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-16493f?style=for-the-badge&logo=About.me&logoColor=white" alt=""></a>
+</p>
 
 <h3 align="center">Conhecimentos</h3>
 <p align="center">
@@ -12,12 +17,14 @@ src="https://img.shields.io/badge/JavaScript-16493f?style=for-the-badge&logo=jav
 </p>
 
 <h3 align="center">Onde me encontrar?</h3>
+
 <p align="center">
 <a href="mailto:natanpedrodasilva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-16493f?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
 <a href="https://www.instagram.com/p3drosep/" target="_blank"><img src="https://img.shields.io/badge/Instagram-16493f?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a> <a href="https://www.linkedin.com/in/nat%C3%A3-pedro-da-silva-735443218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-16493f?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 </p>
 
-<br> <br>
+<br> 
+<br>
 
 <p align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPedro10&layout=compact&langs_count=7&theme=gotham"/>
