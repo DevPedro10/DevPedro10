@@ -34,9 +34,8 @@ src="https://img.shields.io/badge/JavaScript-495390?style=for-the-badge&logo=jav
 
 <p >
 
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevPedro10&theme=gotham"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DevPedro10&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" /></a></p>
 
 <br>
 
-<h3><samp>⬇️ Veja meus repositórios abaixo. ⬇️<samp></h3>
+<h3><samp>⬇️ Check out my repos ⬇️<samp></h3>
