@@ -4,8 +4,6 @@
 - ⚙️ I use daily: `.java`, `.tsx`, `.ts`, `.scss`
 - 🌍  Currently development my portfolio
 
-<br> <!-- <p ><img height="250px"src="https://media3.giphy.com/media/xT5LMpSzVLSh2KycoM/giphy.gif?cid=ecf05e47snryexn9cny345cjqrvbdsl0gnyu8vbtoqenge7f&ep=v1_gifs_search&rid=giphy.gif&ct=g"></p> -->
-
 <h3>That's the first version of my portfolio</h3>
 <p>
 <a href="https://devpedro10.github.io/Site-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-495390?style=for-the-badge&logo=About.me&logoColor=white" alt=""></a>
