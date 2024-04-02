@@ -22,7 +22,6 @@ src="https://img.shields.io/badge/JavaScript-495390?style=for-the-badge&logo=jav
 <a href="https://www.linkedin.com/in/nat%C3%A3-pedro-da-silva-735443218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-495390?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 </p>
 
-<br> 
 <br>
 
 <p >
