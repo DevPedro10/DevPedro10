@@ -1,4 +1,5 @@
 ### Hello there 👋
+<br>
 ### A Full-Stack Developer
 
 - ⚙️ I use daily: `.java`, `.tsx`, `.ts`, `.scss`
