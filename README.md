@@ -1,17 +1,13 @@
-### Hello there 👋
+### Hello there. 👋
 
 <br>
+
 ### A Full-Stack Developer 
 
 - ⚙️ I use daily: `.java`, `.tsx`, `.ts`, `.scss`
 - 🌍  Currently development my portfolio
 
-<h3>That's the first version of my portfolio</h3>
-<p>
-<a href="https://devpedro10.github.io/Site-Portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-495390?style=for-the-badge&logo=About.me&logoColor=white" alt=""></a>
-</p>
-
-<h3 >Skills</h3>
+<h3>Skills</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Python-495390?style=for-the-badge&logo=python&logoColor=white" alt=""> <img src="https://img.shields.io/badge/HTML-495390?style=for-the-badge&logo=html5&logoColor=white" alt=""> <img src="https://img.shields.io/badge/CSS-495390?&style=for-the-badge&logo=css3&logoColor=white" alt=""> <img 
