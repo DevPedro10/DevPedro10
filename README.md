@@ -19,13 +19,4 @@ src="https://img.shields.io/badge/JavaScript-495390?style=for-the-badge&logo=jav
 <a href="mailto:natanpedrodasilva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-495390?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
 <a href="https://www.linkedin.com/in/nat%C3%A3-pedro-da-silva-735443218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-495390?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 </p>
-
-<br>
-
-<p >
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DevPedro10&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D&card_width=500" alt="GitHub Streak" /></a></p>
-
-<br>
-
 <h3><samp>⬇️ Check out my repos ⬇️<samp></h3>
