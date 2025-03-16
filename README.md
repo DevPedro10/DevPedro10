@@ -4,7 +4,7 @@
 ### A Full-Stack Developer 
 
 - ⚙️ I use daily: `.java`, `.tsx`, `.ts`, `.scss`
-- 🌍  Currently development my portfolio
+- 🌍  Currently learning Next.JS
 
 <h3>Skills</h3>
 
