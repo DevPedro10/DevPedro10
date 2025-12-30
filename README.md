@@ -3,7 +3,7 @@
 
 ### A Full-Stack Developer 
 
-- ⚙️ I use daily: `.java`, `.tsx`, `.ts`, `.scss`
+- ⚙️ I use daily: `.java`, `.vue`, `.jsp`
 - 🌍  Currently focused on improving my Spring Boot skills.
 
 <h3>Skills</h3>
