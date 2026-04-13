@@ -1,10 +1,10 @@
 ### Hello there. 👋
 
 
-### A Full-Stack Developer 
+### A Java/Full Stack Developer 
 
-- ⚙️ I use daily: `.java`, `.vue`, `.jsp`
-- 🌍  Currently focused on improving my Spring Boot skills.
+- ⚙️ I use daily: `.java`, `.tsx`, `.jsx`, `.jsp`
+- 🌍  Currently focused on improving my Spring Boot and English skills.
 
 <h3>Skills</h3>
 
